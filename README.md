@@ -1,1 +1,1 @@
-"# QuineCpp" 
+program that prints itself
